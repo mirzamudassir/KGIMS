@@ -99,6 +99,10 @@ require_once(realpath(dirname(__FILE__) . '/..') . '/modal/initialize.php');
     $unit_selling_price= $row['unit_selling_price'];
     $catagory= $row['catagory'];
     $unit_purchase_cost= $row['unit_purchase_cost'];
+    $quantity= $row['quantity'];
+    $available= $row['available'];
+    $status= $row['item_status'];
+    $posted_by= $row['posted_by'];
     
     //another query
 
@@ -110,8 +114,8 @@ require_once(realpath(dirname(__FILE__) . '/..') . '/modal/initialize.php');
     <td class='center'>$unit_selling_price</td>
     <td class='center'>$quantity</td>
     <td class='center'>$available</td>
-    <td class='center'>$status</td>
     <td class='center'>$posted_by</td>
+    <td class='center'>$status</td>
     <td><button data-id='$id' class='userinfo btn btn-success'>Update</button></td>
     ";
 
