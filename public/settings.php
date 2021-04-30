@@ -29,7 +29,7 @@ require_once 'header.php';
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                         <i class="fa fa-user fa-3x"></i>
                     </a>
-                   <!-- dropdown user-->
+                   <!-- dropdown user--> 
                    <ul class="dropdown-menu dropdown-user">
                         <li><a href="javascript:void(0)" data-toggle="modal" data-target="#userProfile"><i class="fa fa-user fa-fw"></i>Profile</a>
                         </li>
