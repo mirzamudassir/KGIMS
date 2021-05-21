@@ -47,7 +47,7 @@ $arr= getUserData($_SESSION['username']);
                                     </div>
                                 </div>
                             </div>
-                        <!-- Modal Alrt End -->
+                        <!-- Modal Alrt End --> 
 
   <!-- Add Item Modal Alert Start -->
     <div class="modal fade" id="addItem" tabindex="-1" role="dialog" aria-labelledby="addItem" aria-hidden="true">
