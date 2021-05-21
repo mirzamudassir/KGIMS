@@ -96,9 +96,7 @@ require_once 'header.php';
                 <div class="col-lg-12">
                     <h1 class="page-header">Stock Level Management</h1>
                     <?php getNotification(); ?>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addStock">Add Stock</button>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addCatagory">Manage Catagory</button>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addTaxGroup">Manage Tax Group</button>
+                    
                                     <!-- Advanced Tables -->
                                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -112,12 +110,10 @@ require_once 'header.php';
                                         <tr>
                                             <th>Barcode</th>
                                             <th>Item Name</th>
-                                            <th>Purchase Cost</th>
-                                            <th>Selling Price</th>
                                             <th> Quantity </th>
                                             <th> Available </th>
-                                            <th>Posted By</th>
                                             <th>Status</th>
+                                            <th>Posted By</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>
@@ -137,7 +133,7 @@ require_once 'header.php';
                                     <div class="modal-content">
                                         <div class="modal-header">
                                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                            <h4 class="modal-title" id="myModalLabel"> Update Item Record</h4>
+                                            <h4 class="modal-title" id="myModalLabel"> Update Stock Record</h4>
                                         </div>
                                         <div class="modal-body">
                                         
@@ -172,7 +168,7 @@ $('.userinfo').click(function(){
 
   // AJAX request
   $.ajax({
-   url: '../core/view/ajaxfile',
+   url: '../core/view/ajaxStock',
    type: 'post',
    data: {userid: userid},
    success: function(response){ 

@@ -96,8 +96,7 @@ require_once 'header.php';
                 <div class="col-lg-12">
                     <h1 class="page-header">Settings</h1>
                     <?php getNotification(); ?>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addItem">Add User</button>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addCatagory">Change Password</button>
+                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addUser">Add User</button>
                     
                                     <!-- Advanced Tables -->
                                     <div class="panel panel-default">
@@ -129,12 +128,12 @@ require_once 'header.php';
                     <!--End Advanced Tables -->
 
 <!-- Update Item Record Modal Alert Start -->
-<div class="modal fade" id="updateModal" tabindex="-1" role="dialog" aria-labelledby="updateModal" aria-hidden="true">
+    <div class="modal fade" id="updateModal" tabindex="-1" role="dialog" aria-labelledby="updateModal" aria-hidden="true">
                                 <div class="modal-dialog">
                                     <div class="modal-content">
                                         <div class="modal-header">
                                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                                            <h4 class="modal-title" id="myModalLabel"> Update Item Record</h4>
+                                            <h4 class="modal-title" id="myModalLabel"> Update User Record</h4>
                                         </div>
                                         <div class="modal-body">
                                         
@@ -146,13 +145,11 @@ require_once 'header.php';
                                 </div>
                             </div>
                         <!-- Update Item Record Modal Alrt End -->
-
-
                 </div>
                 <!--End Page Header -->
             </div>        
 
-        </div>
+           </div>  
         <!-- end page-wrapper -->
 
     </div>
@@ -169,7 +166,7 @@ $('.userinfo').click(function(){
 
   // AJAX request
   $.ajax({
-   url: '../core/view/ajaxfile',
+   url: '../core/view/ajaxUpdateUser',
    type: 'post',
    data: {userid: userid},
    success: function(response){ 
@@ -181,7 +178,7 @@ $('.userinfo').click(function(){
      
    }
  });
-}); 
+});
 });
 
 </script>

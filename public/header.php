@@ -6,6 +6,7 @@ require_once 'modals.php';
 before_every_protected_page();
 $arr= getUserData($_SESSION['username']); 
 
+error_reporting(E_ALL); // Error/Exception engine, always use E_ALL
 ?>
 
 <!DOCTYPE html>

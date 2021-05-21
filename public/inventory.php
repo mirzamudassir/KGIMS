@@ -98,7 +98,6 @@ require_once 'header.php';
                     <?php getNotification(); ?>
                     <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addItem">Add Item</button>
                     <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addCatagory">Manage Catagory</button>
-                    <button type="button" class="btn btn-primary button-left-50" data-toggle="modal" data-target="#addTaxGroup">Manage Tax Group</button>
                                     <!-- Advanced Tables -->
                                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -114,11 +113,10 @@ require_once 'header.php';
                                             <th>Item Name</th>
                                             <th>Description</th>
                                             <th>Catagory</th>
-                                            <th>Purchase Cost</th>
                                             <th>Selling Price</th>
-                                            <th>Tax Group</th>
-                                            <th>Posted By</th>
+                                            <th>Available</th>
                                             <th>Status</th>
+                                            <th>Posted By</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>

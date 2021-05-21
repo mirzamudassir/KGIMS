@@ -1,0 +1,139 @@
+[02-May-2021 11:45:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[02-May-2021 16:15:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[06-May-2021 13:00:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[06-May-2021 13:30:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[06-May-2021 13:32:21 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[06-May-2021 13:34:45 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 14:29:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 14:35:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 20:52:36 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\phpMyAdmin\vendor\phpmyadmin\sql-parser\src\Statements\NotImplementedStatement.php on line 23
+[07-May-2021 20:52:53 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 20:52:53 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 20:52:53 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 20:52:53 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 20:53:01 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 20:53:01 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 20:53:01 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 20:53:01 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 20:53:12 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 20:53:12 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 20:53:12 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 20:53:12 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 20:53:18 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 20:53:19 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 20:53:19 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 20:53:19 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 20:53:34 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 20:53:35 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 20:53:35 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 20:53:35 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 20:55:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 38
+[07-May-2021 20:59:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 36
+[07-May-2021 21:03:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 47
+[07-May-2021 21:10:25 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 21:13:20 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 21:13:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 21:25:07 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 21:30:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in F:\xampp\htdocs\project\core\modal\Auth\validate.php:21
+Stack trace:
+#0 {main}
+  thrown in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 21
+[07-May-2021 21:32:28 Europe/Berlin] PHP Notice:  Undefined index: username in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 23
+[07-May-2021 21:32:28 Europe/Berlin] PHP Notice:  Undefined index: password_hash in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 24
+[07-May-2021 21:32:28 Europe/Berlin] PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 25
+[07-May-2021 21:32:28 Europe/Berlin] PHP Notice:  Undefined index: user_status in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 26
+[07-May-2021 21:32:30 Europe/Berlin] PHP Notice:  Undefined index: username in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 23
+[07-May-2021 21:32:30 Europe/Berlin] PHP Notice:  Undefined index: password_hash in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 24
+[07-May-2021 21:32:30 Europe/Berlin] PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 25
+[07-May-2021 21:32:30 Europe/Berlin] PHP Notice:  Undefined index: user_status in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 26
+[07-May-2021 21:32:34 Europe/Berlin] PHP Notice:  Undefined index: username in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 23
+[07-May-2021 21:32:34 Europe/Berlin] PHP Notice:  Undefined index: password_hash in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 24
+[07-May-2021 21:32:34 Europe/Berlin] PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 25
+[07-May-2021 21:32:34 Europe/Berlin] PHP Notice:  Undefined index: user_status in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 26
+[07-May-2021 21:32:39 Europe/Berlin] PHP Notice:  Undefined index: username in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 23
+[07-May-2021 21:32:39 Europe/Berlin] PHP Notice:  Undefined index: password_hash in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 24
+[07-May-2021 21:32:39 Europe/Berlin] PHP Notice:  Undefined index: full_name in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 25
+[07-May-2021 21:32:39 Europe/Berlin] PHP Notice:  Undefined index: user_status in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 26
+[07-May-2021 21:32:58 Europe/Berlin] PHP Notice:  Object of class mysqli_result could not be converted to int in F:\xampp\htdocs\project\core\modal\Auth\validate.php on line 20
+[07-May-2021 21:34:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:08:44 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:12:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:18:05 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:18:13 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:18:13 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:18:13 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:18:13 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:18:19 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:18:19 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:18:19 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:18:19 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:18:33 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:18:39 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:18:39 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:18:39 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:18:39 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:20:05 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:20:05 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:20:05 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:20:05 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:20:23 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:20:23 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:20:23 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:20:23 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:20:33 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:20:33 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:20:33 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:20:33 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:21:25 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:21:25 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:21:25 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:21:25 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:21:31 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:21:31 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:21:31 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:21:31 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:21:35 Europe/Berlin] PHP Notice:  Undefined index: unit_purchase_cost in F:\xampp\htdocs\project\core\view\dataParser.php on line 45
+[07-May-2021 22:21:35 Europe/Berlin] PHP Notice:  Undefined index: unit_selling_price in F:\xampp\htdocs\project\core\view\dataParser.php on line 46
+[07-May-2021 22:21:35 Europe/Berlin] PHP Notice:  Undefined index: tax_group in F:\xampp\htdocs\project\core\view\dataParser.php on line 47
+[07-May-2021 22:21:35 Europe/Berlin] PHP Notice:  Undefined index: status in F:\xampp\htdocs\project\core\view\dataParser.php on line 49
+[07-May-2021 22:22:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 22:26:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111
+[07-May-2021 23:21:23 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\p\install\done.php on line 44
+[07-May-2021 23:22:01 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\p\install\done.php on line 44
+[07-May-2021 23:28:36 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\p\install\done.php on line 44
+[08-May-2021 02:51:27 Asia/Karachi] PHP Warning:  include_once(../../../p/config.php): failed to open stream: No such file or directory in F:\xampp\htdocs\project\core\modal\initialize.php on line 30
+[08-May-2021 02:51:27 Asia/Karachi] PHP Warning:  include_once(): Failed opening '../../../p/config.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\project\core\modal\initialize.php on line 30
+[08-May-2021 02:51:27 Asia/Karachi] PHP Warning:  include_once(../../../p/project-security.php): failed to open stream: No such file or directory in F:\xampp\htdocs\project\core\modal\initialize.php on line 31
+[08-May-2021 02:51:27 Asia/Karachi] PHP Warning:  include_once(): Failed opening '../../../p/project-security.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\project\core\modal\initialize.php on line 31
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: user in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: full_name in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: email in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: role in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: status in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: user in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: full_name in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: email in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: role in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 02:51:28 Asia/Karachi] PHP Notice:  Undefined variable: status in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[07-May-2021 23:52:10 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\p\site-info.php on line 358
+[07-May-2021 23:54:43 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\p\site-info.php on line 358
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: user in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: full_name in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: email in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: role in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: status in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: user in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: full_name in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: email in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: role in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 03:02:02 Asia/Karachi] PHP Notice:  Undefined variable: status in F:\xampp\htdocs\project\core\controller\UserController.php on line 19
+[08-May-2021 00:02:09 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'security' in F:\xampp\htdocs\project\security\config.php on line 8
+[20-May-2021 17:02:40 Asia/Karachi] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in F:\xampp\htdocs\mudassirmirza\includes\validate.php on line 2
+[20-May-2021 17:02:40 Asia/Karachi] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in F:\xampp\htdocs\mudassirmirza\includes\validate.php:4
+Stack trace:
+#0 F:\xampp\htdocs\mudassirmirza\initialize.php(6): include()
+#1 F:\xampp\htdocs\mudassirmirza\index.php(1): include('F:\\xampp\\htdocs...')
+#2 {main}
+  thrown in F:\xampp\htdocs\mudassirmirza\includes\validate.php on line 4
+[21-May-2021 22:00:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\xampp\htdocs\project\core\modal\Auth\private\functions\session_hijacking_functions.php on line 111

@@ -28,3 +28,8 @@
             $('#dataTablesss-tax-example').dataTable();
         });
     </script>
+    <script>
+        $(document).ready(function () {
+            $('#dataTablesss-state-example').dataTable();
+        });
+    </script>

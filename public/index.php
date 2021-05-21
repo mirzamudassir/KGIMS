@@ -30,10 +30,17 @@ require_once '../includes/global_info.inc.php';
                 </div>
                 
             <div class="col-md-4 col-md-offset-4">
-                <div class="login-panel panel panel-default">                  
+                <div class="login-panel panel panel-default">      
+                <?php
+                if(isset($_SESSION['notifStatus']) AND $_SESSION['notifStatus'] !== ''){
+                    echo $_SESSION['notifStatus'];
+                }
+                else{
+                    echo "";
+                }
+                ?>            
                     <div class="panel-heading">
                         <h3 class="panel-title">Please Log In</h3>
-                        
                     </div>
                     <div class="panel-body">
                         <form action="../core/modal/Auth/validate" method="POST" accept-charset="utf-8">

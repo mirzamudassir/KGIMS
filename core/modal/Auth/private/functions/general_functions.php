@@ -31,32 +31,30 @@ $mainMenu= "<li class='active'>
 <a href=''><i class='fa fa-money fa-fw'></i>Finance<span class='fa arrow'></span></a>
 <ul class='nav nav-second-level'>
     <li>
-        <a href='abc.html'>Price List</a>
+        <a href='priceList'>Price List</a>
     </li>
-    <li>
-        <a href='morris.html'>Bills</a>
-    </li>
-    <li>
-    <a href='morris.html'>Transactions</a>
-  </li>
+    
 </ul>
 </li>
 
-<li>
-<a href=''><i class='fa fa-download fa-fw'></i>Reports<span class='fa arrow'></span></a>
-<ul class='nav nav-second-level'>
-    <li>
-        <a href='abc.html'>Stock Report</a>
-    </li>
-    <li>
-        <a href='morris.html'>Transactions Report</a>
-    </li>
-</ul>
+
 
 <li class='active'>
 <a href='settings'><i class='fa fa-gear fa-fw'></i>User Management</a>
 </li>
 
+";
+
+$dropDownMenu= "
+<ul class='dropdown-menu dropdown-user'>
+    <li><a href='javascript:void(0)' data-toggle='modal' data-target='#userProfile'><i class='fa fa-user fa-fw'></i>Profile</a>
+    </li>
+    <li><a href='settings'><i class='fa fa-gear fa-fw'></i>Settings</a>
+    </li>
+    <li class='divider'></li>
+    <li><a href='../core/modal/Auth/logout'><i class='fa fa-sign-out fa-fw'></i>Logout</a>
+    </li>
+</ul>
 ";
 
 
